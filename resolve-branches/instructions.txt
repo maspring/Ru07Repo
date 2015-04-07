@@ -1,0 +1,21 @@
+The purpose of this exercise is to practice branching and resolving merge conflicts.
+
+For the first portion of this exercise, you will be creating three branches. The names are given in main.py
+(the function body itself is trivial). Create all three branches and write the appropriate function body for each.
+This is simulating dividing tasks between developers (i.e. feature development). After the functions are written in the
+appropriate branches, check out the master branch again, create another branch and write one of the functions again
+but this time in another style.
+
+At this point you should have 4 branches which are 'count-up', 'pick-random', 'reverse-name', and '<exercise-name>-alt'.
+
+Now, merge all 4 branches into the master branch.
+
+After you are done with this exercise, make a new branch with the name of each function from the newly merged
+master named '<exercise-name>-testing' where you will execute (i.e. say_hello('Bob')) the function several times at the bottom of the file showing that the function works as expected (or fails as expected) when another developer checks out
+your branch and runs 'python main.py' on the command line.
+
+As an example, for the say_hello function, I would create a branch named 'say-hello-testing', make changes in that branch
+with say_hello('Bob'), say_hello(3) (to display error handling) at the bottom of the file. Then I would commit the
+file to the say-hello branch.
+
+After this is completed, find a partner that has completed this exercise as well and move onto 'html-collab'.
