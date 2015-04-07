@@ -1,5 +1,9 @@
 For this exercise, you will practice collaborating with another developer to complete an assignment.
 
 In this directory, you will see a bare bones index.html file with comments on what should be included in the
-document. This could be a template for a portfolio or blog site. Remember that the point of this exercise is not to have the prettiest looking website, but to effectively divide the work, branch and commit often, and get comfortable with merge conflicts. Overall, by the end of this exercise, you should have a good feel for the git workflow.
+document. This could be a template for a portfolio or blog site.
+Remember that the point of this exercise is not to have the prettiest looking
+website, but to effectively divide the work, branch and commit often,
+and get comfortable with merge conflicts. Overall, by the end of this exercise,
+you should have a good feel for the git workflow.
 
