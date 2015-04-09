@@ -6,7 +6,7 @@ results and allow the user to input another temperature. This might look somethi
 
 $ python temperature_convert.py
 Please enter a temperature: 70 F
-70 F is 21.11 C
+70 F is 2. C
 Please enter a temperature: q
 Thanks for using the temperature converter!
 
