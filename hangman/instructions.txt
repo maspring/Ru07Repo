@@ -1,0 +1,26 @@
+First things first, we need to go through how to read input from the command line. Before
+we jump into Hangman, let's first implement a simple command line temperature converter.
+Our goal with the temperature converter is to allow the user to tell us if they're converting
+from Fahrenheit to Celcius or vise versa. We then need to convert the temperature, display the
+results and allow the user to input another temperature. This might look something like
+
+$ python temperature_convert.py
+Please enter a temperature: 70 F
+70 F is 2. C
+Please enter a temperature: q
+Thanks for using the temperature converter!
+
+
+
+Onto Hangman! The rules should be well known. The important part
+here is to plan out the code rather than just diving in. Think about the routine of the game, what 
+order it happens in and how this would happen in the code and how to logically separate the 
+components of the game.
+
+Our hangman game will be a command line game that will include a word bank (that you will fill in
+with choices) that the computer will randomly choose from. The current state of the game (a picture)
+of the hangman) along with the spaces for unguessed letters, the filled in correctly guessed letters,
+as well as the letters that have already been guessed should be displayed on each turn.
+
+If the user loses, print out the correct word at the end of the game. It would be nice to also have
+a 'give up' option.
