@@ -1,0 +1,25 @@
+Sorting & Recursion
+
+These three problems are to be done in pairs. They can be implemented iteratively, but the answer will be recursive.
+Work through the problem in whatever language you are most comfortable with. Ask questions and make sure that you
+both group members fully understand each step of the code (i.e. there SHOULD NOT be one person typing everything while
+the other member simply watches).
+
+
+Exercise #1:
+Write a function which implements the Pascal's triangle with the given argument of n (which denotes the output level).
+input: integer
+output: display in the format below
+
+1
+1    1
+1    2    1
+1    3    3    1
+1    4    6    4    1
+1    5    10    10    5    1
+
+
+Exercise #2:
+Write a function that takes a binary tree as the argument and returns the maximum height of the given tree. In summary...
+input: Binary tree
+output: height (integer)
