@@ -1,0 +1,17 @@
+Chicken Nuggets (Facebook interview question)
+
+A giant fast food chain sells chicken nuggets in packages of 6, 9, or 20. Therefore, it is possible
+to buy exactly 15 nuggets (with one package of 6 and another of 9), but it is not possible to buy
+exactly 16 nuggets since no non-negative integer combination of 6, 9, and 20 adds up to 16. To determine
+if it is possible to buy exactly n nuggets, you would have to find non-negative integer values such that
+
+6a + 9b + 20c = n
+
+Your goal is to write a function in Python called chicken_nugget_count which takes one argument, n, and
+returns True if it is possible to buy a combination of 6, 9, and 20 pack units, otherwise return False.
+
+Bonus!
+
+If you have already finished the Python solution, write the JavaScript version! If you are done with that, 
+write a method that takes a data structure representing a deck of cards and returns a shuffled version of
+the deck.

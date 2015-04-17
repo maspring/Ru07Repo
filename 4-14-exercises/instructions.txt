@@ -1,0 +1,16 @@
+Tic-Tac-Toe Winner
+
+Write a function in JavaScript that takes an array of arrays that represents a tic-tac-toe
+board and returns a boolean of whether there is a winner in the game or not. The tic-tac-toe
+board will be represented as a 3x3 matrix as such
+
+var board = [
+	['O', 'X', ''],
+	['X', 'O', ''],
+	['O', 'X', ''],
+]
+
+Bonus!
+
+Work through the earlier techcercises as a pair and achieve a perfect score. Done with that?
+Finish all of the data structures from yesterday.
