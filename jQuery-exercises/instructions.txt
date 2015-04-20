@@ -1,0 +1,21 @@
+There are two exercises for this afternoon/evening. They will be done in pairs and you should use git to collaborate.
+
+Tic Tac Toe!
+
+The game we all know and love - Tic Tac Toe. We've already done work with an algorithm to see if a winner exists. Now it's
+time to make a full blown game! We will rely heavily on jQuery and DOM manipulation to complete this mini project. Really the sky is 
+the limit here but we should, at a bare minimum, have a game board, the ability to play again once the game is over, as well as an
+overall 'wins count' for each player. Remember to add plenty of styling to your page to make sure that our users know that we didn't
+make the page when Space Jam was a thing. How do we do this? Well, jQuery offers plenty of effects (found at http://api.jquery.com/category/effects/
+and http://jqueryui.com/). 
+
+Bonus: If you want a challenge, add the ability to play against either a computer or an AI opponent at a specific difficulty (easy or hard). Easy should 
+just pick a random place to play, while 'hard' should have the computer pick the best possible move. Essentially, on 'hard' mode, the computer should be unbeatable.
+
+Storefront
+
+After you are satisfied with your tic tac toe game, it's time to set up shop. Let's create an e-commerce site using jQuery for the interactions.
+We will need to be able to display all of the current products that our store offers as well as the ability to add a new product (we're putting plenty
+of faith in our users here). Each product should have an image, a price, and a button that will add the product to a shopping cart. Our shopping cart
+should also be displayed with the product (as well as how many of the product), the price of the product, and a grand total for the user as well as 
+and ability to 'check out'.
