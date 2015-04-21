@@ -1,0 +1,35 @@
+For the following exorcises you will use the templates available here.
+http://getbootstrap.com/getting-started/#examples
+
+MAKE SURE YOU WRAP ALL OF YOUR JAVASCRIPT IN JQUERY ON DOCUMENT LOADER (READY)
+
+1) Getting comfortable with the grid
+Use the following template http://getbootstrap.com/examples/grid/
+
+	a) Create a 4x4 grid with bootstrap where the height of the entire grid == 100% of browser height - hint: you will need to use some custom css for the height
+
+	b) Add in content into the grids:
+
+		1) top left - Implement a javascript clock:
+		hint(s): 
+			var today=new Date();
+			use setTimeout to update the clock
+
+		2) top right - Implement a classroom randomizer
+		hint(s):
+			Think about the options we can use like:
+				Input for people's names
+				Mechanism that won't allow selection of the same name twice unless all other names are used
+
+		3) bottom left - Implement a countdown timer/alarm clock
+		hints/ideas:
+			We need to input the time to countdown to
+			Add Audio on alarm
+			Add screen effect(s) on alarm
+			Add a snooze button
+
+		4) bottom right - Implement a list that can be edited daily
+		ideas:
+			List can be drag and drop reordered (HTML5?)
+			List items can be color coded
+			Extra - list items can have a time attached to them that triggers and alarm!
