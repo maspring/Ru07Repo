@@ -6,7 +6,7 @@ MAKE SURE YOU WRAP ALL OF YOUR JAVASCRIPT IN JQUERY ON DOCUMENT LOADER (READY)
 1) Getting comfortable with the grid
 Use the following template http://getbootstrap.com/examples/grid/
 
-	a) Create a 4x4 grid with bootstrap where the height of the entire grid == 100% of browser height - hint: you will need to use some custom css for the height
+	a) Create a 2x2 grid with bootstrap where the height of the entire grid == 100% of browser height - hint: you will need to use some custom css for the height
 
 	b) Add in content into the grids:
 
