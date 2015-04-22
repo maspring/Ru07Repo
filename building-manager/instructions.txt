@@ -1,0 +1,7 @@
+To practice object oriented python, we are going to create a tool to manage a building. We will need a command line interface
+for our tool. On the command line, we should be able to create buildings, units in those buildings, and people to occupy the buildings.
+
+We should also be able (at any time) to view occupants in any floor in any building. Remember to keep your code DRY and to practice 
+the OOP methodology (public classes, private classes, static methods, class methods).
+
+This exercise will be done alone but that doesn't mean you should never talk to anybody. This exercise will also be done in Python.
